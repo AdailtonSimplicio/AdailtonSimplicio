@@ -14,4 +14,5 @@
 <img align="center" alt="JAVA"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </div><br/>
 
-Programar é transformador estou disposto a ir cada vez mais longe. 
+Programar é uma arte!
+Estou disposto a ir cada vez mais longe. 
