@@ -4,7 +4,7 @@
 
 <div>
 <a href="https://github.com/AdailtonSimplicio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdailtonSimplicio&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdailtonSimplicio&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ![Adailton GitHub stats](https://github-readme-stats.vercel.app/api?username=AdailtonSimplicio&show_icons=true&theme=tokyonight)
