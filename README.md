@@ -6,7 +6,6 @@
 <a href="https://github.com/AdailtonSimplicio">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdailtonSimplicio&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="180em"src="https://github-readme-stats.vercel.app/api?username=AdailtonSimplicio&show_icons=true&theme=tokyonight"/>
-![Snake animation](https://github.com/AdailtonSimplicio/AdailtonSimplicio/blob/output/github-contribution-grid-snake.svg)
  </div>
  
 ## Tecnologias que uso
