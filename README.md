@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Adailton Simplicio 👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adailtonsimplicioo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adailton-simpl%C3%ADcio-97749310a/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5582981115795&text=Ol%C3%A1%20Adailton%2C%20tudo%20bem%3F%20Eu%20vir%20seu%20perfil%20no%20Github.)
 
 <div>
 <a href="https://github.com/AdailtonSimplicio">
